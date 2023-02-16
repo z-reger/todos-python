@@ -1,4 +1,5 @@
-wash the car
-update the OS
 make a function
 just made a default function
+Master Python!
+add complete button
+add exit button
